@@ -1,0 +1,6 @@
+{
+	"firstname" : "[data-cy='firstname']",
+	"lastname" : "[data-cy='lastname']",
+	"email" : "[data-cy='email']",
+	"saveButton" : "[data-cy='submit']"
+}

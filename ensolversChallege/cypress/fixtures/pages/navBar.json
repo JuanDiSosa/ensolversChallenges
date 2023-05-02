@@ -1,0 +1,9 @@
+{
+	"homeButton" : "#header-tabs > :nth-child(1) > .d-flex",
+	"manageList" : "[data-cy='entity'] > .d-flex",
+	"manageListToDo" : "[href='/to-do-item']",
+	"manageListFolder" : "[href='/folder']",
+	"accountList" : "[data-cy='accountMenu'] > .d-flex",
+	"settings" : "[data-cy='settings']",
+	"logout" : "[data-cy='logout']"
+}

@@ -1,0 +1,6 @@
+{
+	"homeMessage" : "h2",
+	"loginMessage" : "#app-view-container > div.jh-card.card > div > div > div.col-md-9 > div > div.alert.alert-success.fade.show",
+	"manageToDoButton" : ":nth-child(1) > .mr-2",
+	"manageFoldersButton" : ":nth-child(2) > .mr-2"
+}

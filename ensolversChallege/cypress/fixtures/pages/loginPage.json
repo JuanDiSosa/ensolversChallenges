@@ -1,0 +1,7 @@
+{
+    "username" : "[data-cy='username']",
+    "password" : "[data-cy='password']",
+    "signInButton" : "[data-cy='submit']",
+    "errorMessage" : "[data-cy='loginError']",
+    "messageWrongSingIn" : "Failed to sign in! Please check your credentials and try again."
+}

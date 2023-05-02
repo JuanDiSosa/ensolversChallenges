@@ -1,0 +1,12 @@
+{
+	"refreshButton" : "cy.get('.mr-2')",
+	"createNewFolder" : "[data-cy='entityCreateButton']",
+	"viewButton" : "[data-cy='entityDetailsButton']",
+	"editButton" : "[data-cy='entityEditButton']",
+	"deleteButton" : "[data-cy='entityDeleteButton']",
+	"folderName" : "[data-cy='name']",
+	"saveButton" : "[data-cy='entityCreateSaveButton']",
+	"backButton" : "[data-cy='entityCreateCancelButton']",
+	"confirmDelete" : "[data-cy='entityConfirmDeleteButton']",
+	"messagesFolder" : ".alert"
+}

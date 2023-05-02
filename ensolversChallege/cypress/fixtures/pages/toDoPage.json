@@ -1,0 +1,14 @@
+{
+	"messageToDoPage" : "[data-cy='ToDoItemHeading']",
+	"refreshButton" : ".mr-2",
+	"createNewToDoItem" : "[data-cy='entityCreateButton']",
+	"viewButton" : "[data-cy='entityDetailsButton']",
+	"editButton" : "[data-cy='entityEditButton']",
+	"deleteButton" : "[data-cy='entityDeleteButton']",
+	"saveButton" : "[data-cy='entityCreateSaveButton']",
+	"confirmDeleteButton" : "[data-cy='entityConfirmDeleteButton']",
+	"name" : "[data-cy='title']",
+	"description" : "[data-cy='description']",
+	"folder" : "[data-cy='folder']",
+	"messagesFolder" : "#app-view-container > div.jh-card.card > div > div > div > div > div"
+}
